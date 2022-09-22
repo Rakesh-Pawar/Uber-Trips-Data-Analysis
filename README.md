@@ -10,8 +10,8 @@
 # :books: Table of Contents:
 - [Overview](##Overview)
 - [Business Problem](##Business-Problem)
-- [Data Cleaning](Data-Cleaning.md)
-- [Data Analysis](Data-Analysis.md)
+- [Data Cleaning](https://github.com/Rakesh-Pawar/Uber-Trips-Data-Analysis/blob/main/Data-cleaning.md)
+- [Data Analysis solution](https://github.com/Rakesh-Pawar/Uber-Trips-Data-Analysis/blob/main/Solutions.md)
 ___________________________________
 ## :mag_right: Overview:
 - This repository contains SQL data analysis for uber rides. Uber provide personal data to analyse your travel experience, expenses, location, time spend etc. You can download your data by sending request. I don’t have personal uber rides dataset, so I am using [Felipe Alves Santos](https://towardsdatascience.com/exploratory-data-analysis-eda-a-pratical-approach-using-your-uber-rides-dataset-5e9f0e892149). Felipe shares his analysis in python along with dataset. Thanks @Felipe Alves Santos for the excellent analysis! 
@@ -28,25 +28,27 @@ _________________________________________
 ## :dart: Business Problem:
 <details><summary>Click here to expand</summary>
 <p>
-1. How many trips have I done over the years?
 
-2. Where did most of the dropoffs occur?
+1. How many trips have  done over the years?
 
-3. What product type was usually chosen?
+2. What product type was usually chosen?
 
-4. What was the avg. fare, distance, amount and time spent on rides?
+3. What was the avg. fare, distance, amount and time spent on rides?
 
-5. Which weekdays had the highest average fares?
+4. Which weekdays had the highest average fares?
 
-6. Which was the longest/shortest and more expensive/cheaper ride?
+5. Which was the longest/shortest and more expensive/cheaper ride?
 
-7. What was the average lead time before begining a trip?
+6. What was the average lead time before begining a trip?
 
 </p>
 </details>
 
-:point_right: Data Cleaning [click here](Data-Cleaning.md)
+:point_right: Data Cleaning [click here](https://github.com/Rakesh-Pawar/Uber-Trips-Data-Analysis/blob/main/Data-cleaning.md)
 
-:point_right: Data Analysis Solution [click here](Data-Analysis.md)
+:point_right: Data Analysis Solution [click here](https://github.com/Rakesh-Pawar/Uber-Trips-Data-Analysis/blob/main/Solutions.md)
 
+## Conclusion
 
+- This repo briefly demonstrated some tips and steps to make analysis easier and undoubtedly highlighted the crucial importance of a well-defined business problem, guiding all analytical efforts to a specific objective, and also highlighting important insights.
+- This business case also tried to reflect a practical application of SQL in daily business activities. 
