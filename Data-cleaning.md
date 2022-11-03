@@ -1,4 +1,4 @@
-- Open business Problem [Solution](Solution.md)
+- Open business Problem [Solution](https://github.com/Rakesh-Pawar/Uber-Trips-Data-Analysis/blob/main/Solutions.md)
 ## Data Cleaning:
 
 ## Rename Product Type Columns 
